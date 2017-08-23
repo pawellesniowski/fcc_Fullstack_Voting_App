@@ -1,0 +1,1 @@
+This application allows to create and manage voting.
